@@ -9,3 +9,5 @@ Select 2,'blak','25' Union All
 Select 3,'Lily',23
   
 Select * from T1
+
+delete from T1
